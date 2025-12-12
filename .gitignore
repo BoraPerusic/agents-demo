@@ -1,0 +1,7 @@
+kotlin/build/
+kotlin/.gradle/
+python/__pycache__/
+python/.venv/
+.env
+*.class
+*.log

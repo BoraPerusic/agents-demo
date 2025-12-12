@@ -1,0 +1,10 @@
+langgraph
+langchain
+langchain-openai
+langchain-core
+mcp
+typer
+python-dotenv
+aiohttp
+pytest
+pytest-asyncio
